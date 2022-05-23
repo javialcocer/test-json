@@ -185,30 +185,54 @@
       "text": "Consequuntur cupiditate facilis asperiores dicta praesentium amet neque optio obcaecati quam ratione.",
       "desktop": [
         {
-          "src": "https://via.placeholder.com/380x480",
+          "src": "https://via.placeholder.com/380x480&text=Slide%20Desktop%201",
           "alt": "Image 1 desktop alt"
         },
         {
-          "src": "https://via.placeholder.com/380x480",
+          "src": "https://via.placeholder.com/380x480&text=Slide%20Desktop%202",
           "alt": "Image 2 desktop alt"
         },
         {
-          "src": "https://via.placeholder.com/380x480",
+          "src": "https://via.placeholder.com/380x480&text=Slide%20Desktop%203",
           "alt": "Image 3 desktop alt"
+        },
+        {
+          "src": "https://via.placeholder.com/380x480&text=Slide%20Desktop%204",
+          "alt": "Image 4 desktop alt"
+        },
+        {
+          "src": "https://via.placeholder.com/380x480&text=Slide%20Desktop%205",
+          "alt": "Image 5 desktop alt"
+        },
+        {
+          "src": "https://via.placeholder.com/380x480&text=Slide%20Desktop%206",
+          "alt": "Image 6 desktop alt"
         }
       ],
       "mobile": [
         {
-          "src": "https://via.placeholder.com/380x480",
+          "src": "https://via.placeholder.com/380x480&text=Slide%20Mobile%201",
           "alt": "Image 1 mobile alt"
         },
         {
-          "src": "https://via.placeholder.com/380x480",
+          "src": "https://via.placeholder.com/380x480&text=Slide%20Mobile%202",
           "alt": "Image 2 mobile alt"
         },
         {
-          "src": "https://via.placeholder.com/380x480",
+          "src": "https://via.placeholder.com/380x480&text=Slide%20Mobile%203",
           "alt": "Image 3 mobile alt"
+        },
+        {
+          "src": "https://via.placeholder.com/380x480&text=Slide%20Mobile%204",
+          "alt": "Image 4 mobile alt"
+        },
+        {
+          "src": "https://via.placeholder.com/380x480&text=Slide%20Mobile%205",
+          "alt": "Image 5 mobile alt"
+        },
+        {
+          "src": "https://via.placeholder.com/380x480&text=Slide%20Mobile%206",
+          "alt": "Image 6 mobile alt"
         }
       ]
     },
